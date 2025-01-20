@@ -13,7 +13,7 @@ export default function SearchBar() {
 
     try {
       // Send request to Flask backend
-      const res = await fetch('http://python.phpnode.net/chat', {
+      const res = await fetch('https://python.phpnode.net/chat', {
         method: 'POST', // Using POST as expected by the backend
         headers: {
           'Content-Type': 'application/json',
