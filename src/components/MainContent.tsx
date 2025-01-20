@@ -7,7 +7,7 @@ import FollowUpInput from './FollowUpInput';
 export default function MainContent() {
   return (
     <div className="max-w-3xl mx-auto w-full mt-8 space-y-6">
-      <h1 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">price plans for bolt.new</h1>
+      {/* <h1 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">price plans for bolt.new</h1>
       
       <div className="bg-gray-100 dark:bg-[#2C2C2C] rounded-xl p-6 transition-colors">
         <SourceList />
@@ -53,7 +53,7 @@ export default function MainContent() {
         </div>
       </div>
 
-      <RelatedQuestions />
+      <RelatedQuestions /> */}
       {/* <FollowUpInput /> */}
     </div>
   );
