@@ -54,7 +54,7 @@ export default function SearchBar() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100 dark:bg-gray-900 p-4">
+    <div className="min-h-screen flex items-center justify-center">
       <div className="bg-white dark:bg-gray-800 rounded-3xl shadow-lg p-8 max-w-3xl w-full">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6 text-center">
           Ask Your AI Assistant
